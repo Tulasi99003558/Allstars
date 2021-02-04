@@ -1,7 +1,8 @@
 #include<sri.h>
 
-int main()
+int sri()
 {
     printf("Iam srikarani");
+    return 0;
     
 }
