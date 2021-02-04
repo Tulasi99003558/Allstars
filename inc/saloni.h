@@ -2,5 +2,6 @@
 #define __SALONI_H__
 
 #include<stdio.h>
+int saloni();
 
 #endif
