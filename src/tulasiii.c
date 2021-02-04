@@ -1,6 +1,6 @@
-#include<dinesh.h>
+#include<pushpa.h>
 int main()
 {
-    printf("Dinesh");
+    printf("pushpa");
     return 0;
 }
