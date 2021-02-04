@@ -3,4 +3,6 @@
 
 #include<stdio.h>
 
+int manushna();
+
 #endif

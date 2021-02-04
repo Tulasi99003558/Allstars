@@ -1,6 +1,7 @@
 #include<manushna.h>
 
-int main()
+int manushna()
 {
     printf("This is manushna");
+    return 0;
 }
