@@ -1,6 +1,6 @@
 #include<pushpa.h>
-int main()
+int pushpa()
 {
-    printf("pushpa");
+    printf(" This is pushpa");
     return 0;
 }

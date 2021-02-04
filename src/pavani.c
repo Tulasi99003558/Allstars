@@ -1,5 +1,6 @@
 #include<pavani.h>
-int main()
+int pavani()
 {
     printf("pavani");
+    return 0;
 }

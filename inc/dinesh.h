@@ -1,5 +1,6 @@
 #ifndef _DINESH_H
 #define _DINESH_H
 
-#include<stdio.h>
+#include<dinesh.h>
+int dinesh();
 #endif

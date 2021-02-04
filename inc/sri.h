@@ -2,5 +2,6 @@
 #define ___SRI_H__
 
 #include <stdio.h>
+int sri();
 
 #endif
