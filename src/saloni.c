@@ -1,6 +1,7 @@
 #include<saloni.h>
 
-int main()
+int saloni()
 {
-    printf("saloni");
+    printf("this is saloni");
+    return 0;
 }
