@@ -7,7 +7,9 @@ int main()
     printf("Iam pavani-4\n");
     printf("Iam Dinesh-5\n");
     printf("iam manushna-6\n");
-    printf("Iam Preethu k-6\n");
-    printf("Iam srikarani-7");
+    printf("Iam Preethu k-7\n");
+    printf("Iam srikarani-8\n");
+    printf("Iam Tulasi-9");
+    
     return 0;
 }
