@@ -1,5 +1,5 @@
 #include<dinesh.h>
-int main()
+int dinesh()
 {
     printf("Dinesh");
     return 0;
