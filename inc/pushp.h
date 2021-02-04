@@ -1,5 +1,5 @@
-#ifndef _DINESH_H
-#define _DINESH_H
+#ifndef _PUSHPA_H
+#define _PUSHPA_H
 
 #include<stdio.h>
 #endif
