@@ -2,4 +2,5 @@
 int main()
 {
     printf("iam preethu");
+    return 0;
 }
