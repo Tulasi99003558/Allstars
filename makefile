@@ -18,7 +18,7 @@ src/dinesh.c\
 # Project Output name
 #PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME)
 
-INC = -Iinc
+INC = -Iinc\
 
 # Document files
 DOCUMENTATION_OUTPUT = documentation/html
@@ -30,7 +30,7 @@ $(PROJECT_NAME):all
 .PHONY: run clean test doc all
 
 all: $(SRC) $(BUILD)
-	gcc $(SRC) -o $(BUILD)/firstprog.out
+	gcc $(SRC) $(INC) -o $(BUILD)/firstprog.out
 
 # Call `make run` to run the application
 run:$(PROJECT_NAME)
