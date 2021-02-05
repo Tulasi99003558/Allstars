@@ -1,5 +1,6 @@
 #include<prashanth.h>
-int main()
+int prashanth()
 {
     printf("iam prashanth");
+    return 0;
 }
