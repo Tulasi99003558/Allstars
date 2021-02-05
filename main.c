@@ -6,7 +6,7 @@
 #include<preethu.h>
 #include<saloni.h>
 #include<sri.h>
-#include<tulasi.h>
+#include<tulasiii.h>
 #include<stdio.h>
 int main()
 {
@@ -19,7 +19,7 @@ int main()
     preethu();
     saloni();
     sri();
-    tulasi();
+    tulasiii();
     return 0;
 }
 

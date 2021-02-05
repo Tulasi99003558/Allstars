@@ -5,17 +5,19 @@ PROJECT_NAME = firstprog
 BUILD = build
 
 # All source code files
-SRC = main.c\
+SRC =main.c\
 src/dinesh.c\
-   /manushna.c\
-   / mokshith.c\
-   / pavani.c\
-   / prashanth.c\
-   / Preethu.c\
-   / saloni.c\
-   / tulasiii.c\
+src/manushna.c\
+src/mokshith.c\
+src/pavani.c\
+src/prashanth.c\
+src/preethu.c\
+src/saloni.c\
+src/tulasiii.c\
+src/sri.c\
 
 # Project Output name
+
 #PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME)
 
 INC = -Iinc\
