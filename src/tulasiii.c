@@ -1,6 +1,6 @@
 #include<tulasiii.h>
 int tulasiii()
 {
-    printf(" This is pushpa");
+    printf(" This is tulasiii");
     return 0;
 }
