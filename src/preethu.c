@@ -1,5 +1,5 @@
 #include<preethu.h>
-int main()
+int preethu()
 {
     printf("iam preethu");
     return 0;
